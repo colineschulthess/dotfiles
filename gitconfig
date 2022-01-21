@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = coline.schulthess@gmail.com
+	name = Coline Schulthess
